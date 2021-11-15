@@ -18,7 +18,7 @@
 #  0    |     1		    |     0	    |   0	 |      1	     |           1			   | 
 #  1    |     1		    |     0	    |   1	 |      0	     |           0			   | 
 #  1    |     1		    |     1	    |   0	 |      1	     |           1			   | 
-#  1    |     1		    |     1 	|   1	 |      0	     |           1	           | 
+#  1    |     1		    |     1 	    |   1	 |      0	     |           1	                   | 
 		
 # A ~ B:                   Kui mõlemad numbrid on samad, siis on tehe tõene. Tõesust märgitakse "1"-ga ja väära "0"-iga
 # C AND A:                 (Mõlemas peab olema "1", muidu on "0"	
